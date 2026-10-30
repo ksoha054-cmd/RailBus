@@ -1,0 +1,81 @@
+{
+  "bookings": [
+    {
+      "booking_id": "B-DEMO-001",
+      "phone": "9000000001",
+      "passenger_name": "Demo Passenger Asha",
+      "train_no": "16209",
+      "train_name": "Ajmer\u2013Mysuru Express",
+      "route_id": "R01",
+      "destination": "Mysuru Palace",
+      "demo_fare_inr": 25,
+      "quantity": 2,
+      "arrival_time": "06:30",
+      "arrival_slot": "06:30-07:00",
+      "journey_date": "2026-10-30",
+      "status": "CONFIRMED",
+      "payment_status": "DEMO_CONFIRMED",
+      "ticket_code": "RB-DEMO-001",
+      "dispatch_id": "DSP-DEMO-001",
+      "bus_code": "RBUS-DEMO-001",
+      "bus_label": "MYS-RB-001",
+      "bus_departure_time": "06:30",
+      "confirmed_at": "2026-10-30T18:00:43.070Z",
+      "demo_record": true
+    },
+    {
+      "booking_id": "B-DEMO-002",
+      "phone": "9000000002",
+      "passenger_name": "Demo Passenger Ravi",
+      "train_no": "22136",
+      "train_name": "Renigunta\u2013Mysuru SF Express",
+      "route_id": "R02",
+      "destination": "Devaraja Market",
+      "demo_fare_inr": 25,
+      "quantity": 1,
+      "arrival_time": "07:00",
+      "arrival_slot": "07:00-07:30",
+      "journey_date": "2026-10-30",
+      "status": "CONFIRMED",
+      "payment_status": "DEMO_CONFIRMED",
+      "ticket_code": "RB-DEMO-002",
+      "dispatch_id": "DSP-DEMO-002",
+      "bus_code": "RBUS-DEMO-002",
+      "bus_label": "MYS-RB-002",
+      "bus_departure_time": "07:00",
+      "confirmed_at": "2026-10-30T18:00:43.070Z",
+      "demo_record": true
+    }
+  ],
+  "dispatches": [
+    {
+      "dispatch_id": "DSP-DEMO-001",
+      "bus_code": "RBUS-DEMO-001",
+      "route_id": "R01",
+      "destination": "Mysuru Palace",
+      "arrival_slot": "06:30-07:00",
+      "departure_time": "06:30",
+      "journey_date": "2026-10-30",
+      "bus_label": "MYS-RB-001",
+      "demo_pin": "1234",
+      "seats": 2,
+      "capacity": 40,
+      "status": "DEMO SCHEDULED"
+    },
+    {
+      "dispatch_id": "DSP-DEMO-002",
+      "bus_code": "RBUS-DEMO-002",
+      "route_id": "R02",
+      "destination": "Devaraja Market",
+      "arrival_slot": "07:00-07:30",
+      "departure_time": "07:00",
+      "journey_date": "2026-10-30",
+      "bus_label": "MYS-RB-002",
+      "demo_pin": "1234",
+      "seats": 1,
+      "capacity": 40,
+      "status": "DEMO SCHEDULED"
+    }
+  ],
+  "accounts": []
+}

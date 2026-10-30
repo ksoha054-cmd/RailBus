@@ -1,0 +1,586 @@
+[
+  {
+    "route_id": "R01",
+    "destination": "Mysuru Palace",
+    "category": "Heritage",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R02",
+    "destination": "Devaraja Market",
+    "category": "Market",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R03",
+    "destination": "Jaganmohan Palace Art Gallery",
+    "category": "Museum & heritage",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R04",
+    "destination": "St. Philomena’s Cathedral",
+    "category": "Heritage",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R05",
+    "destination": "Mysuru Zoo",
+    "category": "Family attraction",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R06",
+    "destination": "Karanji Lake",
+    "category": "Nature",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R07",
+    "destination": "Mysuru Railway Museum",
+    "category": "Museum",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R08",
+    "destination": "Kukkarahalli Lake",
+    "category": "Nature",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R09",
+    "destination": "Chamundi Hill / Chamundeshwari Temple",
+    "category": "Temple & viewpoint",
+    "demo_fare_inr": 50,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R10",
+    "destination": "Lalitha Mahal Palace",
+    "category": "Heritage",
+    "demo_fare_inr": 45,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R11",
+    "destination": "Mysuru Sand Sculpture Museum",
+    "category": "Museum",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R12",
+    "destination": "Regional Museum of Natural History",
+    "category": "Museum",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R13",
+    "destination": "Shuka Vana",
+    "category": "Nature & birds",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R14",
+    "destination": "Jayalakshmi Vilas Mansion / Folklore Museum",
+    "category": "Museum & heritage",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R15",
+    "destination": "Crawford Hall – University of Mysore",
+    "category": "Heritage",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R16",
+    "destination": "Cheluvamba Mansion",
+    "category": "Heritage",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R17",
+    "destination": "Town Hall / Rangacharlu Memorial Hall",
+    "category": "Heritage",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R18",
+    "destination": "Dodda Gadiyara (Big Clock Tower)",
+    "category": "Landmark",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R19",
+    "destination": "Hardinge Circle",
+    "category": "Landmark",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R20",
+    "destination": "K.R. Circle",
+    "category": "Landmark",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R21",
+    "destination": "Mysuru City Bus Stand",
+    "category": "Transit hub",
+    "demo_fare_inr": 20,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R22",
+    "destination": "Mysuru Palace North Gate",
+    "category": "Heritage",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R23",
+    "destination": "Freedom Fighters Park",
+    "category": "Park",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R24",
+    "destination": "Happy Man Park",
+    "category": "Park",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R25",
+    "destination": "Lingambudhi Lake",
+    "category": "Nature",
+    "demo_fare_inr": 45,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R26",
+    "destination": "Mysuru Race Club",
+    "category": "Sports & landmark",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R27",
+    "destination": "Bannimantap Parade Grounds",
+    "category": "Landmark",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R28",
+    "destination": "Avadhoota Datta Peetham – Sri Ganapathy Sachchidananda Ashram",
+    "category": "Spiritual",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R29",
+    "destination": "Nandi Statue – Chamundi Hill",
+    "category": "Landmark",
+    "demo_fare_inr": 50,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R30",
+    "destination": "Melody World Wax Museum",
+    "category": "Museum",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R31",
+    "destination": "GRS Fantasy Park",
+    "category": "Amusement park",
+    "demo_fare_inr": 60,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R32",
+    "destination": "Railway Staff College / Heritage precinct",
+    "category": "Heritage",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R33",
+    "destination": "Mysuru University Manasagangotri",
+    "category": "Education & landmark",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R34",
+    "destination": "St. Bartholomew’s Church",
+    "category": "Heritage",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R35",
+    "destination": "Krishnaraja Sagar / Brindavan Gardens",
+    "category": "Regional excursion",
+    "demo_fare_inr": 80,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Outside central Mysuru"
+  },
+  {
+    "route_id": "R36",
+    "destination": "Srirangapatna",
+    "category": "Regional excursion",
+    "demo_fare_inr": 60,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Outside central Mysuru"
+  },
+  {
+    "route_id": "R37",
+    "destination": "Ranganathittu Bird Sanctuary",
+    "category": "Regional excursion",
+    "demo_fare_inr": 75,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Outside central Mysuru"
+  },
+  {
+    "route_id": "R38",
+    "destination": "Nanjangud Temple",
+    "category": "Regional excursion",
+    "demo_fare_inr": 70,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Outside central Mysuru"
+  },
+  {
+    "route_id": "R39",
+    "destination": "Somnathpur Temple",
+    "category": "Regional excursion",
+    "demo_fare_inr": 90,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Outside central Mysuru"
+  },
+  {
+    "route_id": "R40",
+    "destination": "Talakadu",
+    "category": "Regional excursion",
+    "demo_fare_inr": 110,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Outside central Mysuru"
+  },
+  {
+    "route_id": "R41",
+    "destination": "Chamundi Hill",
+    "category": "Viewpoint",
+    "demo_fare_inr": 45,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Chamundi Hill"
+  },
+  {
+    "route_id": "R42",
+    "destination": "Railway Sports Ground",
+    "category": "Local area",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Yadavagiri"
+  },
+  {
+    "route_id": "R43",
+    "destination": "Infosys Mysuru Campus",
+    "category": "Workplace",
+    "demo_fare_inr": 90,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Hebbal"
+  },
+  {
+    "route_id": "R44",
+    "destination": "JSS Hospital",
+    "category": "Hospital",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "M.G. Road"
+  },
+  {
+    "route_id": "R45",
+    "destination": "Apollo BGS Hospital",
+    "category": "Hospital",
+    "demo_fare_inr": 55,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Kuvempunagar"
+  },
+  {
+    "route_id": "R46",
+    "destination": "Mysuru Bus Stand",
+    "category": "Transport hub",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Bannimantap"
+  },
+  {
+    "route_id": "R47",
+    "destination": "Suburban Bus Stand",
+    "category": "Transport hub",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Mysuru city"
+  },
+  {
+    "route_id": "R48",
+    "destination": "University of Mysore",
+    "category": "Education",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Manasagangotri"
+  },
+  {
+    "route_id": "R49",
+    "destination": "Brindavan Gardens",
+    "category": "Garden",
+    "demo_fare_inr": 120,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "KRS"
+  },
+  {
+    "route_id": "R50",
+    "destination": "Vijayanagar 4th Stage",
+    "category": "Residential area",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Vijayanagar"
+  },
+  {
+    "route_id": "R51",
+    "destination": "Kuvempunagar",
+    "category": "Residential area",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Kuvempunagar"
+  },
+  {
+    "route_id": "R52",
+    "destination": "Saraswathipuram",
+    "category": "Residential area",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Saraswathipuram"
+  },
+  {
+    "route_id": "R53",
+    "destination": "Gokulam",
+    "category": "Residential area",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Gokulam"
+  },
+  {
+    "route_id": "R54",
+    "destination": "Vontikoppal",
+    "category": "Residential area",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Vontikoppal"
+  },
+  {
+    "route_id": "R55",
+    "destination": "Yadavagiri",
+    "category": "Residential area",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Yadavagiri"
+  },
+  {
+    "route_id": "R56",
+    "destination": "Hebbal Industrial Area",
+    "category": "Industrial area",
+    "demo_fare_inr": 45,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Hebbal"
+  },
+  {
+    "route_id": "R57",
+    "destination": "Bogadi",
+    "category": "Residential area",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Bogadi"
+  },
+  {
+    "route_id": "R58",
+    "destination": "Dattagalli",
+    "category": "Residential area",
+    "demo_fare_inr": 45,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Dattagalli"
+  },
+  {
+    "route_id": "R59",
+    "destination": "J.P. Nagar",
+    "category": "Residential area",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "JP Nagar"
+  },
+  {
+    "route_id": "R60",
+    "destination": "Nazarbad",
+    "category": "Locality",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Nazarbad"
+  },
+  {
+    "route_id": "R61",
+    "destination": "Metagalli",
+    "category": "Industrial area",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Metagalli"
+  },
+  {
+    "route_id": "R62",
+    "destination": "Hinkal Circle",
+    "category": "Major circle",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Hinkal"
+  },
+  {
+    "route_id": "R63",
+    "destination": "Vijayanagar Water Tank Circle",
+    "category": "Major circle",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Vijayanagar"
+  },
+  {
+    "route_id": "R64",
+    "destination": "Ballal Circle",
+    "category": "Major circle",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Saraswathipuram"
+  },
+  {
+    "route_id": "R65",
+    "destination": "Akashvani Circle",
+    "category": "Major circle",
+    "demo_fare_inr": 30,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Vontikoppal"
+  },
+  {
+    "route_id": "R66",
+    "destination": "Dasappa Circle",
+    "category": "Major circle",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Central Mysuru"
+  },
+  {
+    "route_id": "R67",
+    "destination": "Hardinge Circle Bus Stop",
+    "category": "Major circle",
+    "demo_fare_inr": 25,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Central Mysuru"
+  },
+  {
+    "route_id": "R68",
+    "destination": "Kuvempunagar Ring Road Junction",
+    "category": "Major junction",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Kuvempunagar"
+  },
+  {
+    "route_id": "R69",
+    "destination": "Bannimantap Circle",
+    "category": "Major circle",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Bannimantap"
+  },
+  {
+    "route_id": "R70",
+    "destination": "RTO Circle",
+    "category": "Major circle",
+    "demo_fare_inr": 35,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Vijayanagar"
+  },
+  {
+    "route_id": "R71",
+    "destination": "Vijayanagar 3rd Stage",
+    "category": "Residential area",
+    "demo_fare_inr": 40,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Vijayanagar"
+  },
+  {
+    "route_id": "R72",
+    "destination": "Ring Road – Bogadi Junction",
+    "category": "Major junction",
+    "demo_fare_inr": 45,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Bogadi"
+  },
+  {
+    "route_id": "R73",
+    "destination": "Ring Road – Dattagalli Junction",
+    "category": "Major junction",
+    "demo_fare_inr": 45,
+    "fare_label": "ILLUSTRATIVE DEMO FARE — not an official KSRTC fare",
+    "area": "Dattagalli"
+  }
+]

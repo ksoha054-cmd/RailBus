@@ -1,0 +1,34 @@
+{
+  "title": "Mysuru City Bus 122A – public timetable reference",
+  "route": "C.B.S Platform 3 ↔ City Bus Station (loop)",
+  "source_name": "Moovit public route timetable",
+  "source_url": "https://moovitapp.com/index/en/public_transit-time-122a-Mysuru-4082-895898-479592-7539467-0",
+  "source_updated": "2026-10-21",
+  "notice": "Third-party published timetable reference, not a live KSRTC feed. Verify with the operator before dispatch. Arrival estimates can change.",
+  "departures": [
+    {
+      "from": "C.B.S Platform 3",
+      "departure": "06:30",
+      "railway_station": "06:36",
+      "via": "Mysore Palace → Mysore Rural Bus Stand → K.R. Hospital"
+    },
+    {
+      "from": "C.B.S Platform 3",
+      "departure": "08:00",
+      "railway_station": "08:08",
+      "via": "Mysore Palace → Mysore Rural Bus Stand → K.R. Hospital"
+    },
+    {
+      "from": "C.B.S Platform 3",
+      "departure": "09:15",
+      "railway_station": "09:23",
+      "via": "Mysore Palace → Mysore Rural Bus Stand → K.R. Hospital"
+    },
+    {
+      "from": "C.B.S Platform 3",
+      "departure": "10:30",
+      "railway_station": "10:37",
+      "via": "Mysore Palace → Mysore Rural Bus Stand → K.R. Hospital"
+    }
+  ]
+}

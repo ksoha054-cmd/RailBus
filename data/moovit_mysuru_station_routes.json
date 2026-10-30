@@ -1,0 +1,222 @@
+{
+  "provider": "Moovit / KSRTC Ordinary Bus Services",
+  "city": "Mysuru",
+  "source_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082",
+  "route_directory_url": "https://moovitapp.com/index/en/public_transit-lines-Mysuru-4082-895898",
+  "last_checked": "2026-10-30",
+  "schedule_note": "Moovit publishes per-line timetable, service hours and live arrivals on its route pages/app. This public Railway Station page lists route numbers and nearby stops but does not expose all individual departure rows in the static page. RailBus must open Moovit for live line times; departure allocation time is entered by Admin, not fabricated.",
+  "first_bus_near_station": "05:04 AM (Moovit says line 2R; general nearby first bus)",
+  "last_bus_near_station": "11:23 PM (Moovit says line 118; general nearby last bus)",
+  "routes": [
+    {
+      "line": "117",
+      "route": "City Bus Station ⇄ River Valley Hospital",
+      "nearest_stop": "Metropole Circle",
+      "walk_from_station": "3 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "265",
+      "route": "City Bus Station ⇄ Bilikere Bypass",
+      "nearest_stop": "Metropole Circle",
+      "walk_from_station": "3 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "118A",
+      "route": "City Bus Station ⇄ Kumbarakoppal",
+      "nearest_stop": "Metropole Circle",
+      "walk_from_station": "3 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "265B",
+      "route": "City Bus Station ⇄ Ayarahalli",
+      "nearest_stop": "Metropole Circle",
+      "walk_from_station": "3 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "94DC",
+      "route": "City Bus Station ⇄ Parasaiahna Hundi",
+      "nearest_stop": "Metropole Circle",
+      "walk_from_station": "3 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "500",
+      "route": "City Bus Station ↺ City Bus Station",
+      "nearest_stop": "Metropole Circle",
+      "walk_from_station": "4 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "129DC",
+      "route": "City Bus Station ↺ City Bus Station",
+      "nearest_stop": "Metropole Circle",
+      "walk_from_station": "4 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "15",
+      "route": "B.M. Sri Nagar ⇄ J.P. Nagar",
+      "nearest_stop": "R.M.C",
+      "walk_from_station": "5 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "133",
+      "route": "City Bus Station ⇄ Metagalli",
+      "nearest_stop": "R.M.C",
+      "walk_from_station": "5 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "150",
+      "route": "City Bus Station ⇄ Belawatha",
+      "nearest_stop": "R.M.C",
+      "walk_from_station": "5 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "15A",
+      "route": "B.M. Sri Nagar ⇄ J.P. Nagar",
+      "nearest_stop": "R.M.C",
+      "walk_from_station": "5 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "150A",
+      "route": "City Bus Station ⇄ Belawatha",
+      "nearest_stop": "R.M.C",
+      "walk_from_station": "5 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "115",
+      "route": "City Bus Station ⇄ Hootagalli Water Tank",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "116",
+      "route": "City Bus Station ⇄ L&T",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "118",
+      "route": "City Bus Station ⇄ Kumbarakoppal",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "119",
+      "route": "City Bus Station ⇄ L&T",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "120",
+      "route": "City Bus Station ⇄ P. Hosahalli",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "95",
+      "route": "City Bus Stand Platform 15 ↺ via Sangam Circle",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "129",
+      "route": "City Bus Station ↺ City Bus Station",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "135",
+      "route": "City Bus Station ↺ City Bus Station",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "95B",
+      "route": "City Bus Station ↺ City Bus Station",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "95BH",
+      "route": "Sangam Bhandar ➥ City Bus Station",
+      "nearest_stop": "Dasappa Circle",
+      "walk_from_station": "9 min",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "10C",
+      "route": "Mysuru city route (Moovit lists near railway station)",
+      "nearest_stop": "Railway Station area",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "11F",
+      "route": "Vikranth Radial Plant ⇄ J.P. Nagar",
+      "nearest_stop": "Railway Station area",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "11FC",
+      "route": "Vikranth Radial Plant ⇄ J.P. Nagar",
+      "nearest_stop": "Railway Station area",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "11R",
+      "route": "Mysuru city route (Moovit lists near railway station)",
+      "nearest_stop": "Railway Station area",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "161RL",
+      "route": "Railway Station ⇄ Shakthi Nagar Park",
+      "nearest_stop": "Railway Station",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "307",
+      "route": "Mysuru city route (Moovit lists near railway station)",
+      "nearest_stop": "Railway Station area",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "307P",
+      "route": "Mysuru city route (Moovit lists near railway station)",
+      "nearest_stop": "Railway Station area",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    },
+    {
+      "line": "V-119 AIRCON",
+      "route": "Mysuru city AC service (Moovit lists near railway station)",
+      "nearest_stop": "Railway Station area",
+      "walk_from_station": "—",
+      "schedule_url": "https://moovitapp.com/index/en/public_transit-Mysore_Railway_Station-Mysuru-site_27246759-4082"
+    }
+  ]
+}

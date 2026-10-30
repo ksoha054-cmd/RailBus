@@ -1,0 +1,369 @@
+{
+  "title": "RailBus recurring station connection plan",
+  "classification": "DEMO / NOT KSRTC LIVE DATA",
+  "service_day": "Illustrative daily plan",
+  "frequency_minutes": 30,
+  "source_note": "Generated for prototype UI and load testing. Must not be represented as an official KSRTC timetable.",
+  "services": [
+    {
+      "service_id": "RB-DEMO-001",
+      "service_name": "RailBus station connection (demo)",
+      "route": "City Bus Stand \u2192 Devaraja Market",
+      "railway_station_departure": "05:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-002",
+      "service_name": "RailBus station connection (demo)",
+      "route": "K.R. Circle \u2192 Palace \u2192 Zoo",
+      "railway_station_departure": "06:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-003",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Vijayanagar \u2192 Hinkal Circle",
+      "railway_station_departure": "06:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-004",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Kuvempunagar \u2192 Dattagalli",
+      "railway_station_departure": "07:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-005",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Hebbal \u2192 Metagalli",
+      "railway_station_departure": "07:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-006",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Bogadi \u2192 Manasagangotri",
+      "railway_station_departure": "08:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-007",
+      "service_name": "RailBus station connection (demo)",
+      "route": "City Bus Stand \u2192 Devaraja Market",
+      "railway_station_departure": "08:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-008",
+      "service_name": "RailBus station connection (demo)",
+      "route": "K.R. Circle \u2192 Palace \u2192 Zoo",
+      "railway_station_departure": "09:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-009",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Vijayanagar \u2192 Hinkal Circle",
+      "railway_station_departure": "09:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-010",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Kuvempunagar \u2192 Dattagalli",
+      "railway_station_departure": "10:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-011",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Hebbal \u2192 Metagalli",
+      "railway_station_departure": "10:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-012",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Bogadi \u2192 Manasagangotri",
+      "railway_station_departure": "11:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-013",
+      "service_name": "RailBus station connection (demo)",
+      "route": "City Bus Stand \u2192 Devaraja Market",
+      "railway_station_departure": "11:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-014",
+      "service_name": "RailBus station connection (demo)",
+      "route": "K.R. Circle \u2192 Palace \u2192 Zoo",
+      "railway_station_departure": "12:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-015",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Vijayanagar \u2192 Hinkal Circle",
+      "railway_station_departure": "12:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-016",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Kuvempunagar \u2192 Dattagalli",
+      "railway_station_departure": "13:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-017",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Hebbal \u2192 Metagalli",
+      "railway_station_departure": "13:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-018",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Bogadi \u2192 Manasagangotri",
+      "railway_station_departure": "14:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-019",
+      "service_name": "RailBus station connection (demo)",
+      "route": "City Bus Stand \u2192 Devaraja Market",
+      "railway_station_departure": "14:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-020",
+      "service_name": "RailBus station connection (demo)",
+      "route": "K.R. Circle \u2192 Palace \u2192 Zoo",
+      "railway_station_departure": "15:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-021",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Vijayanagar \u2192 Hinkal Circle",
+      "railway_station_departure": "15:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-022",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Kuvempunagar \u2192 Dattagalli",
+      "railway_station_departure": "16:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-023",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Hebbal \u2192 Metagalli",
+      "railway_station_departure": "16:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-024",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Bogadi \u2192 Manasagangotri",
+      "railway_station_departure": "17:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-025",
+      "service_name": "RailBus station connection (demo)",
+      "route": "City Bus Stand \u2192 Devaraja Market",
+      "railway_station_departure": "17:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-026",
+      "service_name": "RailBus station connection (demo)",
+      "route": "K.R. Circle \u2192 Palace \u2192 Zoo",
+      "railway_station_departure": "18:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-027",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Vijayanagar \u2192 Hinkal Circle",
+      "railway_station_departure": "18:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-028",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Kuvempunagar \u2192 Dattagalli",
+      "railway_station_departure": "19:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-029",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Hebbal \u2192 Metagalli",
+      "railway_station_departure": "19:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-030",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Bogadi \u2192 Manasagangotri",
+      "railway_station_departure": "20:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-031",
+      "service_name": "RailBus station connection (demo)",
+      "route": "City Bus Stand \u2192 Devaraja Market",
+      "railway_station_departure": "20:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-032",
+      "service_name": "RailBus station connection (demo)",
+      "route": "K.R. Circle \u2192 Palace \u2192 Zoo",
+      "railway_station_departure": "21:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-033",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Vijayanagar \u2192 Hinkal Circle",
+      "railway_station_departure": "21:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-034",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Kuvempunagar \u2192 Dattagalli",
+      "railway_station_departure": "22:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-035",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Hebbal \u2192 Metagalli",
+      "railway_station_departure": "22:30",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    },
+    {
+      "service_id": "RB-DEMO-036",
+      "service_name": "RailBus station connection (demo)",
+      "route": "Bogadi \u2192 Manasagangotri",
+      "railway_station_departure": "23:00",
+      "frequency_minutes": 30,
+      "planned_capacity": 40,
+      "status": "PLANNING ONLY",
+      "source": "RailBus illustrative schedule; not KSRTC data"
+    }
+  ]
+}
